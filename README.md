@@ -14,8 +14,8 @@
 | **OS**                                   | ![Windows Badge](https://img.shields.io/badge/-Windows-2088FF?style=flat&logo=windows&logoColor=white) ![Linux Badge](https://img.shields.io/badge/-Linux-2088FF?style=flat&logo=Linux&logoColor=white)
 | **Other**                                   |  Wait for supplementing...
 ## My Github status
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChocoboQJJ)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeleNaumann-Eyjafjalla)
   
-![ChocoboQJJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChocoboQJJ&show_icons=true)
+![ChocoboQJJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeleNaumann-Eyjafjalla&show_icons=true)
 
 
