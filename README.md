@@ -15,7 +15,5 @@
 | **Other**                                   |  Wait for supplementing...
 ## My Github status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeleNaumann-Eyjafjalla)
-  
-![AdeleNaumann-Eyjafjalla's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeleNaumann-Eyjafjalla&show_icons=true)
 
 
