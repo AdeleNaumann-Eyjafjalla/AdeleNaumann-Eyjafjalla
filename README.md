@@ -16,6 +16,6 @@
 ## My Github status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeleNaumann-Eyjafjalla)
   
-![ChocoboQJJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeleNaumann-Eyjafjalla&show_icons=true)
+![AdeleNaumann-Eyjafjalla's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeleNaumann-Eyjafjalla&show_icons=true)
 
 
