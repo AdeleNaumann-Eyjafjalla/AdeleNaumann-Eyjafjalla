@@ -13,7 +13,5 @@
 | **Databases**                                   | ![MySql Badge](https://img.shields.io/badge/-MySql-2088FF?style=flat&logo=MySql&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-2088FF?style=flat&logo=MongoDB&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/-PostgreSql-2088FF?style=flat&logo=postgresql&logoColor=white)
 | **OS**                                   | ![Windows Badge](https://img.shields.io/badge/-Windows-2088FF?style=flat&logo=windows&logoColor=white) ![Linux Badge](https://img.shields.io/badge/-Linux-2088FF?style=flat&logo=Linux&logoColor=white)
 | **Other**                                   |  Wait for supplementing...
-## My Github status
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeleNaumann-Eyjafjalla)
 
 
